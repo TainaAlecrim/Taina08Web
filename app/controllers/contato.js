@@ -1,7 +1,7 @@
 var contatos = [
-    { _id: 1, nome: 'Fabio Teixeira', email: 'fabio.teixeira@ifsp.edu.br' },
-    { _id: 2, nome: 'Fabiano Teixeira', email: 'fabiano.teixeira@ifsp.edu.br' },
-    { _id: 3, nome: 'Melissa Teixeira', email: 'melissa.teixeira@ifsp.edu.br' }
+    { _id: 1, nome: 'Talles Holanda', email: 'holanda@gmail.com' },
+    { _id: 2, nome: 'Taina Alecrim', email: 'alecrim@gmail.com' },
+    { _id: 3, nome: 'Rock Balboa', email: 'rock@rock.com' }
 ]
 
 module.exports = function() {
